@@ -1,6 +1,8 @@
 # Codvid app     
 
+
 ## Requirements   
+https://docs.google.com/presentation/d/1R1i_fc9uAcSylbZ0uu6gma8cF5VG0DXqznYduvO1VCQ/edit#slide=id.g7f879d7cb3_0_412    
 Use CODVID-19 [API](https://covid19api.com/) ([Documentation using postman](https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest)) to build mobile application that displays:     
 1. CODVID cases per country on a MAP   
 2. CODVID cases per country Live on a MAP (changes)   
