@@ -1,12 +1,25 @@
 # Codvid app     
 
 ## Requirements   
-Use CODVID-19 [API](https://covid19api.com/) ([Documentation using postman](https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest)) to build mobile application that displays:      
-CODVID cases per country on a MAP
-CODVID cases per country Live on a MAP (changes)
-CODVID cases per country based on a date.
-Summary of total cases for the world
-Live Summary for the World
+Use CODVID-19 [API](https://covid19api.com/) ([Documentation using postman](https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest)) to build mobile application that displays:     
+1. CODVID cases per country on a MAP   
+2. CODVID cases per country Live on a MAP (changes)   
+3. CODVID cases per country based on a date.   
+4. Summary of total cases for the world   
+5. Live Summary for the World    
+
 Stretch goal:
-Display data per Province
-User can put their address and track CODVID-19 in their neighborhood (Only in countries where regional data is provided)
+1. Display data per Province
+2. User can put their address and track CODVID-19 in their neighborhood (Only in countries where regional data is provided)
+
+Steps:   
+Step 1:  Setup your REACT Native Environment      
+Please note:  If you have an iOS device, you need a Mac computer.  If you don’t have a Mac.   
+Step 2:  Go through REACT native Tutorial     
+Build Hello Applications    
+Run Hello applications on emulator and your phone.    
+It will be great to run it on two phones if you can (iOS and Android)     
+Step 3:  Develop use case to display a map.  (GitHub location)    
+Step 4:  On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text.  Be fancy!  Style your results.      
+Step 5:  Overlay the data on the maps.      
+
