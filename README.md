@@ -25,9 +25,15 @@ Step 4:  On separate branch, exercise the CODVID-19 API (Documentation using pos
 Step 5:  Overlay the data on the maps.      
 
 ## Process    
-Step 1:  Setup your REACT Native Environment        
+#### Step 1:  Setup your REACT Native Environment [Done]        
+Download Expo CLI     
+Use npm to install the Expo CLI:    
+```
+npm install -g expo-cli
+```
+But since I had to borrow laptop, I can only try web version - Snack.      
 
-
+#### Step 2: Build and run Hello App on emulator and phone     
 
 
 
