@@ -16,7 +16,6 @@ Stretch goal:
 
 Steps:   
 Step 1:  Setup your REACT Native Environment      
-Please note:  If you have an iOS device, you need a Mac computer.  If you don’t have a Mac.   
 Step 2:  Go through REACT native Tutorial     
 Build Hello Applications    
 Run Hello applications on emulator and your phone.    
@@ -26,5 +25,16 @@ Step 4:  On separate branch, exercise the CODVID-19 API (Documentation using pos
 Step 5:  Overlay the data on the maps.      
 
 ## Process    
+Step 1:  Setup your REACT Native Environment        
+
+
+
+
+
+
+
+
+
+
 
 
