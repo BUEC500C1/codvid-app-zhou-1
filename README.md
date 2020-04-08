@@ -30,7 +30,16 @@ Detailed code in this project can be viewed in [1. HelloApp folder.](https://git
 The result image shows like below:    
 ![demo](/img/hello.PNG)    
 
-#### Step 3:  Develop use case to display a map      
+#### Step 3:  Develop use case to display a map [Done]     
+Create a location-finder App.      
+The dependencies for this project while we are making this project are:     
+1. expo        
+2. react       
+3. react-native       
+4. react-native-maps     
+Last, integrating React Native Maps in my React Native App which means that import MapView in React Native app.     
+The result image shows like below:    
+![demo](/img/mapDisplay.PNG)       
 
 
 #### Step 4:  On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text.  Be fancy!  Style your results.          
