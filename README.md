@@ -10,11 +10,11 @@ Use CODVID-19 [API](https://covid19api.com/) ([Documentation using postman](http
 4. Summary of total cases for the world   
 5. Live Summary for the World    
 
-Stretch goal:
+### Stretch goal:
 1. Display data per Province
 2. User can put their address and track CODVID-19 in their neighborhood (Only in countries where regional data is provided)
 
-Steps:   
+### Steps:   
 Step 1:  Setup your REACT Native Environment      
 Step 2:  Go through REACT native Tutorial     
 Build Hello Applications    
