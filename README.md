@@ -37,7 +37,9 @@ The dependencies for this project while we are making this project are:
 2. react       
 3. react-native       
 4. react-native-maps     
+
 Last, integrating React Native Maps in my React Native App which means that import MapView in React Native app.     
+Detailed code in this project can be viewed in [2. DisplayMapApp folder.](https://github.com/BUEC500C1/codvid-app-zhou-1/tree/master/2.%20DisplayMapApp)     
 The result image shows like below:    
 ![demo](/img/mapDisplay.PNG)       
 
