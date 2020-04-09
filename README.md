@@ -49,7 +49,9 @@ The result image shows like below:
 Gif for version 1 result looks like below:     
 ![gif1](/img/COVID19-APP_version1.gif)     
 
-
+##### Version 2     
+Gif for version 2 result looks like below:    
+![gif2](/img/COVID19-APP_version2.gif)     
 
 #### Step 5:  Overlay the data on the maps.   
 
