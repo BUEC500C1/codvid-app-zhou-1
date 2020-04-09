@@ -44,7 +44,10 @@ The result image shows like below:
 ![demo](/img/mapDisplay.PNG)       
 
 
-#### Step 4:  On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text.  Be fancy!  Style your results.          
+#### Step 4:  On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text.  Be fancy!  Style your results. [Doing.....]      
+##### Version 1     
+Gif for version 1 result looks like below:     
+![gif1](/img/COVID19-APP_version1.gif)     
 
 
 
