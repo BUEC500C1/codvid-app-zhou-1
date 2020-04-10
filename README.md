@@ -44,14 +44,23 @@ The result image shows like below:
 ![demo](/img/mapDisplay.PNG)       
 
 
-#### Step 4:  On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text.  Be fancy!  Style your results. [Doing.....]      
-##### Version 1     
-Gif for version 1 result looks like below:     
-![gif1](/img/COVID19-APP_version1.gif)     
+#### Step 4:  On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text.  Be fancy!  Style your results. [Done]      
+Version 3 is what I have done for step 4.     
+For my app, first, user can see current global data about CODVID-19.      
+Second, user can type in country's name and my app will show them the report about current CODVID-19's spread situation like confirmed, deaths, recovered cases.   
+
+##### Current Version - version 3     
+Gif for version 3 result looks like below:    
+![gif3](/img/COVID19-APP_version3.gif)  
 
 ##### Version 2     
 Gif for version 2 result looks like below:    
-![gif2](/img/COVID19-APP_version2.gif)     
+![gif2](/img/COVID19-APP_version2.gif)    
+
+##### Version 1     
+Gif for version 1 result looks like below:     
+![gif1](/img/COVID19-APP_version1.gif)     
+ 
 
 #### Step 5:  Overlay the data on the maps.   
 
