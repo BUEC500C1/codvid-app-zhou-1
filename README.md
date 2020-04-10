@@ -22,7 +22,7 @@ Use npm to install the Expo CLI:
 ```
 npm install -g expo-cli
 ```
-But since I had to borrow laptop, I can only try web version - Snack.      
+But since I my laptop was crushed, I will try web version - Snack.      
 
 #### Step 2: Build and run Hello App on emulator and phone [Done]      
 It is easy, just follow this link: https://reactnative.dev/docs/getting-started    
