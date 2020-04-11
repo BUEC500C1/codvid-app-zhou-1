@@ -53,18 +53,11 @@ Second, user can type in country's name and my app will show them the report abo
 Gif for version 3 result looks like below:    
 ![gif3](/img/COVID19-APP_version3.gif)  
 
-##### Version 2     |     ##### Version 1  
+##### Previous Versions 
 Gif for version 2 result looks like below:    |    Gif for version 1 result looks like below:   
 :-------------------------:|:-------------------------:
 ![gif2](/img/COVID19-APP_version2.gif)    |    ![gif1](/img/COVID19-APP_version1.gif)    
 
-  
-
-
-   
-  
- 
- 
 
 #### Step 5:  Overlay the data on the maps.   
 
