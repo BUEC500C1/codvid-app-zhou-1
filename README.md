@@ -60,8 +60,8 @@ Gif for version 2 result looks like below:    |    Gif for version 1 result look
 ![gif2](/img/COVID19-APP_version2.gif)    |    ![gif1](/img/COVID19-APP_version1.gif)    
 
 
-#### Step 5:  Overlay the data on the maps.   
-
+#### Step 5:  Overlay the data on the maps. [Doing...]        
+My plan: get every country's central place's latitude and longitude, show number of country's different kind of cases in a world map.   
 
 
 
