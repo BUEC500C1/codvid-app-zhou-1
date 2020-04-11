@@ -46,7 +46,8 @@ The result image shows like below:
 
 #### Step 4:  On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text.  Be fancy!  Style your results. [Done]      
 Version 3 is what I have done for step 4.     
-For my app, first, user can see current global data about CODVID-19.      
+Firstly, my app will get today's date automatically. Then it allows user to do below 2 things:        
+First, user can see current global data about CODVID-19.      
 Second, user can type in country's name and my app will show them the report about current CODVID-19's spread situation like confirmed, deaths, recovered cases.   
 
 ##### Current Version - version 3     
