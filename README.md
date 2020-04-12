@@ -61,7 +61,9 @@ Gif for version 2 result looks like below:    |    Gif for version 1 result look
 
 
 #### Step 5:  Overlay the data on the maps. [Doing...]        
-My plan: get every country's central place's latitude and longitude, show number of country's different kind of cases in a world map.   
+Show 3 different kinds of cases in target place's country.      
+
+![dataonmap](/img/textOnMap.PNG)     
 
 
 
