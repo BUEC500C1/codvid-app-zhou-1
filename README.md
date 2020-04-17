@@ -22,7 +22,7 @@ Use npm to install the Expo CLI:
 ```
 npm install -g expo-cli
 ```
-But since I had to borrow laptop, I can only try web version - Snack.      
+But since I my laptop was crushed, I will try web version - Snack.      
 
 #### Step 2: Build and run Hello App on emulator and phone [Done]      
 It is easy, just follow this link: https://reactnative.dev/docs/getting-started    
@@ -44,12 +44,26 @@ The result image shows like below:
 ![demo](/img/mapDisplay.PNG)       
 
 
-#### Step 4:  On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text.  Be fancy!  Style your results.          
+#### Step 4:  On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text.  Be fancy!  Style your results. [Done]      
+Version 3 is what I have done for step 4.     
+Firstly, my app will get today's date automatically. Then it allows user to do below 2 things:        
+First, user can see current global data about CODVID-19.      
+Second, user can type in country's name and my app will show them the report about current CODVID-19's spread situation like confirmed, deaths, recovered cases.   
+
+##### Current Version - version 3     
+Gif for version 3 result looks like below:    
+![gif3](/img/COVID19-APP_version3.gif)  
+
+##### Previous Versions 
+Gif for version 2 result looks like below:    |    Gif for version 1 result looks like below:   
+:-------------------------:|:-------------------------:
+![gif2](/img/COVID19-APP_version2.gif)    |    ![gif1](/img/COVID19-APP_version1.gif)    
 
 
+#### Step 5:  Overlay the data on the maps. [Doing...]        
+Show 3 different kinds of cases in target place's country.      
 
-#### Step 5:  Overlay the data on the maps.   
-
+![dataonmap](/img/textOnMap.PNG)     
 
 
 
