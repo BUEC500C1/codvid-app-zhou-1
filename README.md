@@ -62,7 +62,10 @@ Gif for version 2 result looks like below:    |    Gif for version 1 result look
 
 #### Step 5:  Overlay the data on the maps. [Doing...]        
 Show 3 different kinds of cases in target place's country.      
+Final version for displaying multiple countries across the world.    
+![dataonmap2](/img?mapDisplay2.gif)    
 
+##### Previous Version
 ![dataonmap](/img/textOnMap.PNG)     
 
 
