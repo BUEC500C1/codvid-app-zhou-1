@@ -61,12 +61,15 @@ Gif for version 2 result looks like below:    |    Gif for version 1 result look
 
 
 #### Step 5:  Overlay the data on the maps. [Doing...]        
-Show 3 different kinds of cases in target place's country.      
-Final version for displaying multiple countries across the world.    
-![dataonmap2](/img/mapDisplay2.gif)    
+Show Total Confirmed case in target place's country and updated world's virus information.      
+Final version for displaying multiple countries across the world look like below:      
 
-##### Previous Version
-![dataonmap](/img/textOnMap.PNG)     
+
+##### Previous Versions
+Gif for version 2 result looks like below:    |    Gif for version 1 result looks like below:   
+:-------------------------:|:-------------------------:
+![dataonmap2](/img/mapDisplay2.gif)      |    ![dataonmap](/img/textOnMap.PNG)   
+   
 
 
 
