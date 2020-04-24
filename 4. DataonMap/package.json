@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "axios": "latest",
+    "react-navigation": "4.1.1",
+    "react-native-maps": "0.25.0",
+    "react-native-screens": "^2.0.0",
+    "react-navigation-stack": "latest",
+    "react-native-safe-area-context": "^0.6.0",
+    "@react-native-community/masked-view": "^0.1.0"
+  }
+}
