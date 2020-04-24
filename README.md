@@ -1,8 +1,11 @@
 # Codvid app     
 
 
-## Requirements   
-https://docs.google.com/presentation/d/1R1i_fc9uAcSylbZ0uu6gma8cF5VG0DXqznYduvO1VCQ/edit#slide=id.g7f879d7cb3_0_412    
+## Live Demo
+
+## Set up    
+
+## Goals      
 Use CODVID-19 [API](https://covid19api.com/) ([Documentation using postman](https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest)) to build mobile application that displays:     
 1. CODVID cases per country on a MAP   
 2. CODVID cases per country Live on a MAP (changes)   
@@ -14,7 +17,6 @@ Use CODVID-19 [API](https://covid19api.com/) ([Documentation using postman](http
 1. Display data per Province
 2. User can put their address and track CODVID-19 in their neighborhood (Only in countries where regional data is provided) 
    
-
 ## Process    
 #### Step 1:  Setup your REACT Native Environment [Done]        
 Download Expo CLI     
@@ -60,7 +62,7 @@ Gif for version 2 result looks like below:    |    Gif for version 1 result look
 ![gif2](/img/COVID19-APP_version2.gif)    |    ![gif1](/img/COVID19-APP_version1.gif)    
 
 
-#### Step 5:  Overlay the data on the maps. [Doing...]        
+#### Step 5:  Overlay the data on the maps. [Done]        
 Show Total Confirmed case in target place's country and updated world's virus information.      
 Final version for displaying multiple countries across the world look like below:      
 ![dataonmap2](/img/mapDisplay3.gif)    
@@ -70,10 +72,5 @@ Gif for version 2 result looks like below:    |    Gif for version 1 result look
 :-------------------------:|:-------------------------:
 ![dataonmap2](/img/mapDisplay2.gif)      |    ![dataonmap](/img/textOnMap.PNG)   
    
-
-
-
-
-
 
 
