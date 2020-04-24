@@ -1,10 +1,21 @@
 # Codvid app     
-
+My Codvid-19 app has 3 main functions.     
+1. Help user know each country's current situation in confirmed, recovered, death cases; user can type in the country's name to search for it. Hint: If the country you are looking for like United States, please put '-' between 2 words like 'united-states'     
+2. A partial map view for showing user BU's location and show current Codvid-19 situation in the world.     
+3. A report for showing user more details about current Codvid-19 situation in the world AND a dynamic map for user to see different country's total confirmed cases.     
 
 ## Live Demo    
 ![demo](img/Covid19App.gif)    
 
 ## Set up    
+Download my prohect    
+```
+git clone https://github.com/BUEC500C1/codvid-app-zhou-1.git
+```
+Files are in finalFiles folder.      
+Deploy my files in local React Native environment or snack online environment.      
+Run App.js file to get App run.     
+
 
 ## Goals      
 Use CODVID-19 [API](https://covid19api.com/) ([Documentation using postman](https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest)) to build mobile application that displays:     
