@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "axios": "latest",
+    "react-native-svg": "9.0.0",
+    "react-navigation": "latest",
+    "react-native-maps": "latest",
+    "react-native-screens": "^2.0.0",
+    "react-native-elements": "latest",
+    "react-navigation-stack": "latest",
+    "react-native-safe-area-context": "0.6.0",
+    "@react-native-community/masked-view": "0.1.1",
+    "react-native-vector-icons/FontAwesome": "latest"
+  }
+}
