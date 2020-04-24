@@ -1,7 +1,8 @@
 # Codvid app     
 
 
-## Live Demo
+## Live Demo    
+![demo](img/Covid19App.gif)    
 
 ## Set up    
 
